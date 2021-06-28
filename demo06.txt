@@ -2,4 +2,8 @@
 asdfghjkl
 qwertyuiop
 zxcvbnm
+<<<<<<< HEAD
 adssokokokokokokok master
+=======
+adssokokokokokokok branch01
+>>>>>>> branch01
